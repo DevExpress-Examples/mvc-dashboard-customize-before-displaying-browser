@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DashboardConfig.cs](./CS/MVCxDashboard/App_Start/DashboardConfig.cs)
+<!-- default file list end -->
 # How to customize a dashboard before displaying it in a browser
 
 
