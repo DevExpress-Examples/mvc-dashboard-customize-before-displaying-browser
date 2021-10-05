@@ -9,7 +9,7 @@ using System.Xml.Linq;
 namespace MVCxDashboard {
     public class DashboardConfig {
         public static void RegisterService(RouteCollection routes) {
-            routes.MapDashboardRoute();
+            routes.MapDashboardRoute("dashboardControl", "DefaultDashboard");
 
             DashboardConfigurator.Default.AllowExecutingCustomSql = true;
             DashboardConfigurator.Default.SetDashboardStorage(new MyDashboardFileStorage(@"~/App_Data/Dashboards/"));
