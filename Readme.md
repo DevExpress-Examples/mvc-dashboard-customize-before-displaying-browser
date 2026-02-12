@@ -21,7 +21,7 @@ This example demonstrates how to define a custom [Dashboard Storage](https://do
   
 - [Web Dashboard - How to customize a dashboard before displaying it in a browser](https://github.com/DevExpress-Examples/web-dashboard-how-to-customize-a-dashboard-before-displaying-it-in-a-browser)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=mvc-dashboard-customize-before-displaying-browser&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=mvc-dashboard-customize-before-displaying-browser&~~~was_helpful=no)
 
